@@ -97,6 +97,8 @@ npm run sync
 
 ## How to run locally
 
+This project requires Node 16.x or 18.x to build. Tested with Node 16.16.0, NPM 8.11.0.
+
 - `npm i`
 - `HTTPS=true npm start`
 - Visit `https://localhost:3000` in the browser and accept the security risk.
